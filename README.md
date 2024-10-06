@@ -1,0 +1,2 @@
+# LubetoGo
+Game for mechanics 
